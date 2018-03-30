@@ -1,0 +1,41 @@
+
+#bigContainer {
+    
+    height: 500px;
+    width: 700px;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+#buttons {
+	width: 100%;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+
+#selectType {
+	height: 30px;
+	display: flex;
+	justify-content: center;
+}
+
+.BWradio {
+	margin-left:50px;
+}
+#reset {
+	color: black;
+}
+
+
+.buttons {
+	margin: 0 10px;
+}
+
+.emptyDiv {
+    border: 1px solid black;
+    background-color: white;
+    float:left;
+
+}
